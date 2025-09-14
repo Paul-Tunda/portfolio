@@ -1,0 +1,33 @@
+/* General */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('../assets/financial-engineering.png') center/cover no-repeat;
+    color: white;
+}
+
+.skills{
+    width: 30px;
+
+}
+
+/* Timeline */
+.timeline-item {
+    padding: 20px;
+    border-left: 3px solid #0d6efd;
+    margin: 20px 0;
+}
+.timeline-item h5 {
+    font-weight: bold;
+    color: #0d6efd;
+}
