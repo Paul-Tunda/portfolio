@@ -12,7 +12,7 @@ h2 {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url('../assets/financial-engineering.png') center/cover no-repeat;
+    url('assets/financial-engineering.png') center/cover no-repeat;
     color: white;
 }
 
